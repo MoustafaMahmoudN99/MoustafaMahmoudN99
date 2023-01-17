@@ -31,7 +31,7 @@ I'm a student at the faculty of Computers & Artificial intelligence - Banha univ
 [instagram]: https://www.instagram.com/moustafamahmoudn99/
 [linkedin]: https://www.linkedin.com/in/moustafa-mahmoud-658453158/
 [facebook]: https://www.facebook.com/Moustafa.Mahmoud.n99
-[paypal]: paypal.me/MoustafaMahmoudn99
+[paypal]: https://paypal.me/MoustafaMahmoudn99
 
 
 
