@@ -25,7 +25,7 @@ I'm a student at the faculty of Computers & Artificial intelligence - Banha univ
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/python%20httpswww.cleanpng.compng-python-logo-programmer-fierce-python-cliparts-663849download-png.html.png" />
-<img align="left" alt="C++" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/kisspng-paypal-ebay-computer-icons-pay-5ace697bc9a5b5.597833291523476859826.png" />
+<img align="left" alt="C++" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/C%2B%2B%20httpswww.cleanpng.compng-the-c-programming-language-computer-programming-pr-1247497download-png.html.png" />
 
 [twitter]: https://twitter.com/Moustafa_MMG
 [instagram]: https://www.instagram.com/moustafamahmoudn99/
