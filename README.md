@@ -8,10 +8,14 @@ I'm a student at the faculty of Computers & Artificial intelligence - Banha univ
 
 ### Reach me on:
 [<img align="left" alt="MoustafaMahmoudN99 | Facebook" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/facebook%20httpswww.cleanpng.compng-computer-icons-facebook-logo-portable-network-grap-7140044download-png.html.png" />][facebook]
+
 [<img align="left" alt="MoustafaMahmoudN99 | LinkedIn" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/httpswww.cleanpng.compng-social-media-business-cards-logo-linkedin-5959612download-png.html.png" />][linkedin]
+
 [<img align="left" alt="MoustafaMahmoudN99 | Instagram" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/httpswww.cleanpng.compng-logo-ds-songwriters-fest-cinars-download-instagram-802297download-png.html.png" />][instagram]
+
 [<img align="left" alt="MoustafaMahmoudN99 | Twitter" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/httpswww.cleanpng.compng-twitter-png-hd-68216download-png.html.png" />][twitter]
 
+[<img align="left" alt="MoustafaMahmoudN99 | Paypal" width="40px" src="https://png2.cleanpng.com/sh/e137f9383d1b91a669df773b1e3f1be5/L0KzQYm3VMEyN6ZAiZH0aYP2gLBuTgBigaFmhJ9uYnH8PbT2jgB2fJZ3Rdtsb372PcHomb02aZRqTqsCYnO8cYbpVb42QWg9S6U7OUG4QoS7V8Y5PWo9Sqg3cH7q/kisspng-paypal-ebay-computer-icons-pay-5ace697bc9a5b5.597833291523476859826.png" />][paypal]
 
 
 <br />
@@ -21,13 +25,13 @@ I'm a student at the faculty of Computers & Artificial intelligence - Banha univ
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/python%20httpswww.cleanpng.compng-python-logo-programmer-fierce-python-cliparts-663849download-png.html.png" />
-<img align="left" alt="C++" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/C%2B%2B%20httpswww.cleanpng.compng-the-c-programming-language-computer-programming-pr-1247497download-png.html.png" />
+<img align="left" alt="C++" width="40px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/kisspng-paypal-ebay-computer-icons-pay-5ace697bc9a5b5.597833291523476859826.png" />
 
 [twitter]: https://twitter.com/Moustafa_MMG
 [instagram]: https://www.instagram.com/moustafamahmoudn99/
 [linkedin]: https://www.linkedin.com/in/moustafa-mahmoud-658453158/
 [facebook]: https://www.facebook.com/Moustafa.Mahmoud.n99
-
+[paypal]: paypal.me/MoustafaMahmoudn99
 
 
 
