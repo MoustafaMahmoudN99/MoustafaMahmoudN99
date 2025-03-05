@@ -1,5 +1,5 @@
 ## Hello there, my name is Moustafa Mahmoud 👋
-I'm a fresh graduate with a bachelor's degree in Scientific Computing from the faculty of Computers & Artificial intelligence - Banha university, i'm doing side work until i finish my military service, and after i'll continue following my passion in programming.
+In 2022, I graduated from the Faculty of Computers and Artificial Intelligence at Banha University. I worked as an automation engineer for about a year before joining the army to fulfill my military service. I recently completed my service and have been looking for a job as a software developer.
 
 - ⚒️ Working in the autmation field, programming PLCs and HMIs.
 - 🔭 Exploring ways to improve my skills in Machine learning.
@@ -17,7 +17,6 @@ I'm a fresh graduate with a bachelor's degree in Scientific Computing from the f
 
 [<img align="left" alt="MoustafaMahmoudN99 | Twitter" height="50px" src="https://github.com/MoustafaMahmoudN99/MoustafaMahmoudN99/blob/main/httpswww.cleanpng.compng-twitter-png-hd-68216download-png.html.png" />][twitter]
 
-[<img align="left" alt="MoustafaMahmoudN99 | Paypal" height="50px" src="https://png2.cleanpng.com/sh/e137f9383d1b91a669df773b1e3f1be5/L0KzQYm3VMEyN6ZAiZH0aYP2gLBuTgBigaFmhJ9uYnH8PbT2jgB2fJZ3Rdtsb372PcHomb02aZRqTqsCYnO8cYbpVb42QWg9S6U7OUG4QoS7V8Y5PWo9Sqg3cH7q/kisspng-paypal-ebay-computer-icons-pay-5ace697bc9a5b5.597833291523476859826.png" />][paypal]
 
 
 <br />
