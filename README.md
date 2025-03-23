@@ -1,11 +1,11 @@
-## Hello there, my name is Moustafa Mahmoud 👋
-In 2022, I graduated from the Faculty of Computers and Artificial Intelligence at Banha University. I worked as an automation engineer for about a year before joining the army to fulfill my military service. I recently completed my service and have been looking for a job as a software developer.
+## Hello there, I'm Moustafa Mahmoud👋
+Driven by a passion for software development, I earned a Bachelor's degree in Computers and Artificial Intelligence from Banha University in 2022. After a year in automation engineering and completing my military service, I am now focused on developing innovative solutions as a Frappe Developer at Dynamic Business Solutions.
 
-- ⚒️ Working in the autmation field, programming PLCs and HMIs.
+- 💼 Working as a Frappe Developer at Dynamic Business Solutions.
+- ⚒️ Was working in the autmation field, programming PLCs and HMIs.
 - 🔭 Exploring ways to improve my skills in Machine learning.
-- 🌱 Currently learning Supervised ML & complementary general skills in programming.
+- 🌱 Currently learning more about Frappe and ERPNext & complementary general skills in programming.
 - 🤔 Busy cleaning my old projects so i can upload them here in my free time.
-- 😰 Looking for help with finding work to improve my portfolio. 
 - ⚡ Fun fact: i can stay awake for 2-3 days straight.
 
 ## Reach me on:
